@@ -1,5 +1,5 @@
 <?php
-    require_once 'classes/Test.php';
+    require_once 'Test.php';
 
     $class = new Test;
     $result = $class->testCharacters('Hello! World,');
